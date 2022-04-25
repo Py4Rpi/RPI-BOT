@@ -1,0 +1,869 @@
+2021-01-06 22:06:26,275 - INFO - alarm off
+2021-01-06 22:06:26,673 - INFO - alarm on
+2021-01-06 22:06:27,039 - INFO - alarm off
+2021-01-06 22:06:27,386 - INFO - alarm on
+2021-01-06 22:06:27,731 - INFO - alarm off
+2021-01-06 22:06:28,090 - INFO - alarm on
+2021-01-06 22:16:26,145 - INFO - alarm off
+2021-01-06 22:16:26,501 - INFO - alarm on
+2021-01-06 22:16:26,856 - INFO - alarm off
+2021-01-06 22:16:27,155 - INFO - alarm on
+2021-01-06 22:16:27,425 - INFO - alarm off
+2021-01-06 22:16:27,697 - INFO - alarm on
+2021-01-06 22:17:02,320 - INFO - RELAY 1 on
+2021-01-06 22:17:05,871 - INFO - RELAY 1 off
+2021-01-06 22:17:07,379 - INFO - RELAY 1 on
+2021-01-06 22:17:09,293 - INFO - RELAY 1 off
+2021-01-06 22:17:11,174 - INFO - RELAY 2 on
+2021-01-06 22:17:12,110 - INFO - RELAY 2 off
+2021-01-06 22:17:13,615 - INFO - RELAY 3 on
+2021-01-06 22:17:14,518 - INFO - RELAY 3 off
+2021-01-06 22:17:15,559 - INFO - RELAY 4 on
+2021-01-06 22:17:16,316 - INFO - RELAY 4 off
+2021-01-06 22:17:39,476 - INFO - RPI Bot ready
+2021-01-06 22:24:50,045 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-06 22:24:53,453 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-06 22:24:53,862 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-06 22:24:55,038 - INFO - alarm off
+2021-01-06 22:24:55,039 - INFO - alarm off
+2021-01-06 22:24:55,504 - INFO - alarm on
+2021-01-06 22:24:55,505 - INFO - alarm on
+2021-01-06 22:24:55,968 - INFO - alarm off
+2021-01-06 22:24:55,969 - INFO - alarm off
+2021-01-06 22:24:56,385 - INFO - alarm on
+2021-01-06 22:24:56,385 - INFO - alarm on
+2021-01-06 22:24:57,476 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-06 22:24:58,084 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-06 22:25:02,345 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-06 22:25:03,460 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-06 22:25:08,794 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-06 22:25:10,914 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-06 22:25:15,025 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-06 22:25:19,126 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-06 22:25:20,417 - INFO - alarm off
+2021-01-06 22:25:20,417 - INFO - alarm off
+2021-01-06 22:25:20,806 - INFO - alarm on
+2021-01-06 22:25:20,806 - INFO - alarm on
+2021-01-06 22:25:21,202 - INFO - alarm off
+2021-01-06 22:25:21,202 - INFO - alarm off
+2021-01-06 22:25:21,538 - INFO - alarm on
+2021-01-06 22:25:21,538 - INFO - alarm on
+2021-01-06 22:25:27,241 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-06 22:25:35,376 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-06 22:25:51,501 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-06 22:26:07,619 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-06 22:26:39,756 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-06 22:26:43,410 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-06 22:27:47,595 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-06 22:27:51,310 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-06 22:31:20,211 - INFO - alarm off
+2021-01-06 22:31:20,651 - INFO - alarm on
+2021-01-06 22:31:21,071 - INFO - alarm off
+2021-01-06 22:31:21,486 - INFO - alarm on
+2021-01-06 22:31:42,440 - INFO - alarm off
+2021-01-06 22:31:42,841 - INFO - alarm on
+2021-01-06 22:31:43,175 - INFO - alarm off
+2021-01-06 22:31:43,554 - INFO - alarm on
+2021-01-06 22:32:52,838 - INFO - RELAY 1 on
+2021-01-06 22:32:53,860 - INFO - RELAY 1 off
+2021-01-06 22:32:55,333 - INFO - RELAY 1 on
+2021-01-06 22:35:21,465 - INFO - alarm off
+2021-01-06 22:35:21,922 - INFO - alarm on
+2021-01-06 22:35:22,321 - INFO - alarm off
+2021-01-06 22:35:22,742 - INFO - alarm on
+2021-01-06 23:13:52,205 - INFO - alarm off
+2021-01-06 23:13:52,422 - INFO - alarm on
+2021-01-06 23:13:54,911 - INFO - alarm off
+2021-01-06 23:13:55,185 - INFO - alarm on
+2021-01-06 23:13:55,504 - INFO - alarm off
+2021-01-06 23:13:55,717 - INFO - alarm on
+2021-01-06 23:57:06,278 - INFO - led off
+2021-01-06 23:57:06,768 - INFO - led on
+2021-01-06 23:57:07,212 - INFO - led off
+2021-01-06 23:57:07,640 - INFO - led on
+2021-01-06 23:57:07,921 - INFO - led off
+2021-01-06 23:57:08,202 - INFO - led on
+2021-01-06 23:58:34,411 - INFO - RPI Bot ready
+2021-01-06 23:58:37,910 - INFO - SWITCH TO RELAY CONTROL
+2021-01-07 00:01:23,108 - INFO - led off
+2021-01-07 00:01:23,682 - INFO - led on
+2021-01-07 00:01:24,118 - INFO - led off
+2021-01-07 00:01:24,547 - INFO - led on
+2021-01-07 00:01:31,313 - INFO - RPI Bot ready
+2021-01-07 00:01:33,151 - INFO - SWITCH TO RELAY CONTROL
+2021-01-07 00:01:45,529 - INFO - led off
+2021-01-07 00:01:45,932 - INFO - led on
+2021-01-07 00:01:46,276 - INFO - led off
+2021-01-07 00:01:46,572 - INFO - led on
+2021-01-07 00:01:48,879 - INFO - RPI Bot ready
+2021-01-07 00:01:50,669 - INFO - SWITCH TO CMD
+2021-01-07 00:09:20,401 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-07 00:09:23,824 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-07 00:09:24,198 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-07 00:09:27,859 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-07 00:09:28,472 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-07 00:09:32,563 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-07 00:09:33,669 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-07 00:09:38,769 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-07 00:09:40,878 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-07 00:09:43,390 - INFO - RPI Bot ready
+2021-01-07 00:09:45,028 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-07 00:09:46,590 - INFO - SWITCH TO RELAY CONTROL
+2021-01-07 00:09:48,424 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-07 00:09:56,547 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-07 00:10:00,210 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-07 00:10:16,333 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-07 00:10:19,879 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-07 00:12:34,584 - INFO - RPI Bot ready
+2021-01-07 00:12:36,934 - INFO - SWITCH TO RELAY CONTROL
+2021-01-07 00:30:25,039 - INFO - RPI Bot ready
+2021-01-07 00:30:30,104 - INFO - led off
+2021-01-07 00:30:30,841 - INFO - led on
+2021-01-07 00:30:31,512 - INFO - led off
+2021-01-07 00:30:32,007 - INFO - led on
+2021-01-07 00:30:32,294 - INFO - led off
+2021-01-07 00:30:32,622 - INFO - led on
+2021-01-07 00:30:40,210 - INFO - RPI Bot ready
+2021-01-07 00:30:41,868 - INFO - SWITCH TO RELAY CONTROL
+2021-01-07 00:32:25,994 - INFO - led off
+2021-01-07 00:32:26,307 - INFO - led on
+2021-01-07 00:32:26,514 - INFO - led off
+2021-01-07 00:32:26,802 - INFO - led on
+2021-01-07 00:32:57,227 - INFO - led off
+2021-01-07 00:32:57,477 - INFO - led on
+2021-01-07 00:32:59,695 - INFO - led off
+2021-01-07 00:33:07,281 - INFO - led on
+2021-01-07 00:33:07,589 - INFO - led off
+2021-01-07 00:33:09,905 - INFO - led on
+2021-01-07 00:33:10,177 - INFO - led off
+2021-01-07 00:43:51,913 - INFO - RPI Bot ready
+2021-01-07 00:43:59,501 - INFO - SWITCH TO RELAY CONTROL
+2021-01-07 00:44:08,521 - INFO - led off
+2021-01-07 00:44:08,947 - INFO - led on
+2021-01-07 00:44:09,370 - INFO - led off
+2021-01-07 00:44:09,802 - INFO - led on
+2021-01-07 00:54:48,441 - INFO - RPI Bot ready
+2021-01-07 00:54:50,397 - INFO - SWITCH TO RELAY CONTROL
+2021-01-07 00:54:53,070 - INFO - RELAY 1 on
+2021-01-07 00:54:59,638 - INFO - led off
+2021-01-07 00:55:00,045 - INFO - led on
+2021-01-07 00:55:17,996 - INFO - RPI Bot ready
+2021-01-07 00:55:19,462 - INFO - SWITCH TO CMD
+2021-01-07 00:55:50,528 - INFO - RPI Bot ready
+2021-01-07 00:55:52,818 - INFO - SWITCH TO CMD
+2021-01-07 01:22:24,349 - INFO - led off
+2021-01-07 01:22:24,804 - INFO - led on
+2021-01-07 01:22:25,199 - INFO - led off
+2021-01-07 01:22:25,567 - INFO - led on
+2021-01-07 01:22:33,322 - INFO - RPI Bot ready
+2021-01-07 01:22:35,182 - INFO - SWITCH TO RELAY CONTROL
+2021-01-07 01:22:37,070 - INFO - RELAY 1 on
+2021-01-07 01:22:38,190 - INFO - RELAY 1 off
+2021-01-07 01:22:41,580 - INFO - RPI Bot ready
+2021-01-07 01:22:43,427 - INFO - SWITCH TO CMD
+2021-01-08 09:26:56,714 - INFO - RPI Bot ready
+2021-01-08 09:29:26,493 - INFO - RPI Bot ready
+2021-01-08 09:37:27,422 - INFO - RPI Bot ready
+2021-01-08 09:37:31,463 - INFO - RPI Bot ready
+2021-01-08 09:39:13,006 - INFO - RPI Bot ready
+2021-01-08 09:39:20,016 - INFO - SWITCH TO RELAY CONTROL
+2021-01-08 09:40:07,897 - INFO - RPI Bot ready
+2021-01-08 09:40:09,905 - INFO - SWITCH TO RELAY CONTROL
+2021-01-08 09:41:00,894 - INFO - SWITCH TO RELAY CONTROL
+2021-01-08 09:44:25,608 - INFO - RPI Bot ready
+2021-01-08 09:44:28,096 - INFO - SWITCH TO RELAY CONTROL
+2021-01-08 09:44:30,470 - INFO - RELAY 1 on
+2021-01-08 09:44:32,007 - INFO - RELAY 1 off
+2021-01-08 09:45:23,013 - INFO - RPI Bot ready
+2021-01-08 09:46:10,783 - INFO - RPI Bot ready
+2021-01-08 10:46:52,667 - INFO - RPI Bot ready
+2021-01-08 11:49:48,067 - INFO - RPI Bot ready
+2021-01-08 11:49:51,973 - INFO - SWITCH TO RELAY CONTROL
+2021-01-08 11:49:59,420 - INFO - RELAY 1 on
+2021-01-08 11:50:00,680 - INFO - RELAY 1 off
+2021-01-08 11:50:01,636 - INFO - RELAY 2 on
+2021-01-08 11:50:02,333 - INFO - RELAY 2 off
+2021-01-08 11:50:03,064 - INFO - RELAY 3 on
+2021-01-08 11:50:03,738 - INFO - RELAY 3 off
+2021-01-08 11:50:04,313 - INFO - RELAY 4 on
+2021-01-08 11:50:04,590 - INFO - RELAY 4 off
+2021-01-08 11:50:45,584 - INFO - RPI Bot ready
+2021-01-08 11:53:06,637 - INFO - RPI Bot ready
+2021-01-08 11:53:24,521 - INFO - RPI Bot ready
+2021-01-08 11:53:32,720 - INFO - SWITCH TO RELAY CONTROL
+2021-01-08 11:54:08,978 - INFO - SWITCH TO RELAY CONTROL
+2021-01-08 11:55:12,060 - INFO - SWITCH TO RELAY CONTROL
+2021-01-08 11:55:20,836 - INFO - RPI Bot ready
+2021-01-08 11:55:24,792 - INFO - SWITCH TO RELAY CONTROL
+2021-01-08 11:56:20,969 - INFO - RPI Bot ready
+2021-01-08 11:56:23,287 - INFO - SWITCH TO RELAY CONTROL
+2021-01-08 11:56:24,845 - INFO - RELAY 1 on
+2021-01-08 11:56:25,710 - INFO - RELAY 1 off
+2021-01-08 11:57:37,734 - INFO - RPI Bot ready
+2021-01-08 11:57:46,153 - INFO - SWITCH TO RELAY CONTROL
+2021-01-08 11:57:48,078 - INFO - RELAY 1 on
+2021-01-08 11:57:48,738 - INFO - RELAY 1 off
+2021-01-08 11:58:12,911 - INFO - RPI Bot ready
+2021-01-08 11:58:12,967 - INFO - RPI Bot ready
+2021-01-08 11:58:17,661 - INFO - SWITCH TO RELAY CONTROL
+2021-01-08 11:58:24,926 - INFO - RPI Bot ready
+2021-01-08 12:22:28,843 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-08 12:22:33,489 - INFO - RPI Bot ready
+2021-01-08 12:22:38,766 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-08 12:23:23,323 - INFO - RPI Bot ready
+2021-01-08 12:24:35,321 - INFO - RPI Bot ready
+2021-01-08 12:24:38,834 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-08 12:28:48,494 - INFO - RPI Bot ready
+2021-01-08 12:47:59,452 - INFO - RPI Bot ready
+2021-01-08 12:48:02,872 - INFO - SWITCH TO RELAY CONTROL
+2021-01-08 12:48:04,906 - INFO - RELAY 1 on
+2021-01-08 12:48:05,819 - INFO - RELAY 1 off
+2021-01-08 12:48:17,090 - INFO - RPI Bot ready
+2021-01-08 12:48:24,453 - INFO - SWITCH TO RELAY CONTROL
+2021-01-08 12:48:27,727 - INFO - RPI Bot ready
+2021-01-08 12:48:38,884 - INFO - SWITCH TO RELAY CONTROL
+2021-01-08 20:12:28,267 - INFO - RPI Bot ready
+2021-01-08 20:12:31,993 - INFO - SWITCH TO RELAY CONTROL
+2021-01-08 20:12:33,995 - INFO - RELAY 1 on
+2021-01-08 20:12:34,900 - INFO - RELAY 1 off
+2021-01-08 20:12:37,208 - INFO - RPI Bot ready
+2021-01-08 20:14:15,813 - INFO - SWITCH TO RELAY CONTROL
+2021-01-08 20:14:18,335 - INFO - RELAY 1 on
+2021-01-08 20:14:19,002 - INFO - RELAY 1 off
+2021-01-08 20:30:52,981 - INFO - RPI Bot ready
+2021-01-08 20:30:56,167 - INFO - SWITCH TO RELAY CONTROL
+2021-01-08 20:30:57,546 - INFO - RELAY 1 on
+2021-01-08 20:30:58,243 - INFO - RELAY 1 off
+2021-01-08 21:02:52,119 - INFO - SWITCHED TO CMD
+2021-01-08 21:03:39,990 - INFO - SWITCHED TO CMD
+2021-01-08 21:16:45,503 - INFO - SWITCHED TO CMD
+2021-01-12 11:27:24,199 - INFO - RPI Bot ready
+2021-01-12 11:27:28,187 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-12 11:27:29,498 - INFO - RELAY 1 on
+2021-01-12 11:27:30,562 - INFO - RELAY 1 off
+2021-01-12 11:28:05,509 - INFO - RPI Bot ready
+2021-01-12 11:28:07,872 - INFO - SWITCHED TO CMD
+2021-01-12 13:01:24,582 - INFO - RPI Bot ready
+2021-01-12 13:01:26,047 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-12 13:01:33,083 - INFO - RELAY 1 on
+2021-01-12 13:01:34,177 - INFO - RELAY 1 off
+2021-01-13 17:16:36,284 - INFO - RELAY 1 on
+2021-01-13 17:16:38,694 - INFO - RELAY 1 off
+2021-01-13 17:16:40,833 - INFO - RELAY 1 on
+2021-01-13 17:16:42,001 - INFO - RELAY 1 off
+2021-01-13 17:16:44,172 - INFO - RELAY 1 on
+2021-01-13 17:16:45,795 - INFO - RELAY 1 off
+2021-01-13 17:20:49,784 - INFO - RPI Bot ready
+2021-01-13 17:20:51,771 - INFO - SWITCHED TO CMD
+2021-01-13 17:22:57,159 - INFO - RPI Bot ready
+2021-01-13 17:23:00,651 - INFO - SWITCHED TO CMD
+2021-01-13 17:23:46,277 - INFO - RPI Bot ready
+2021-01-13 17:23:48,730 - INFO - SWITCHED TO CMD
+2021-01-13 17:26:44,315 - INFO - RPI Bot ready
+2021-01-13 17:26:49,534 - INFO - SWITCHED TO CMD
+2021-01-13 17:28:42,307 - INFO - RPI Bot ready
+2021-01-13 17:28:43,927 - INFO - SWITCHED TO CMD
+2021-01-13 17:34:02,505 - INFO - RPI Bot ready
+2021-01-13 17:34:09,943 - INFO - SWITCHED TO SSH
+2021-01-13 17:35:09,396 - INFO - RPI Bot ready
+2021-01-13 17:35:13,423 - INFO - SWITCHED TO SSH
+2021-01-13 17:36:41,963 - INFO - RPI Bot ready
+2021-01-13 17:36:43,808 - INFO - SWITCHED TO SSH
+2021-01-13 17:49:29,171 - INFO - RPI Bot ready
+2021-01-13 17:49:31,644 - INFO - SWITCHED TO SSH
+2021-01-13 17:49:36,522 - INFO - RPI Bot ready
+2021-01-13 17:49:41,055 - INFO - SWITCHED TO SSH
+2021-01-13 17:57:23,623 - INFO - RPI Bot ready
+2021-01-13 17:57:25,050 - INFO - SWITCHED TO SSH
+2021-01-13 17:59:06,613 - INFO - RPI Bot ready
+2021-01-13 17:59:07,591 - INFO - SWITCHED TO SSH
+2021-01-13 18:00:19,835 - INFO - RPI Bot ready
+2021-01-13 18:00:21,551 - INFO - SWITCHED TO SSH
+2021-01-13 18:04:02,199 - INFO - RPI Bot ready
+2021-01-13 18:04:03,696 - INFO - SWITCHED TO SSH
+2021-01-13 18:05:05,507 - INFO - RPI Bot ready
+2021-01-13 18:05:06,937 - INFO - SWITCHED TO SSH
+2021-01-13 18:05:13,824 - INFO - SWITCHED TO SSH
+2021-01-13 18:05:27,389 - INFO - SWITCHED TO SSH
+2021-01-13 18:06:07,432 - INFO - RPI Bot ready
+2021-01-13 18:06:09,803 - INFO - SWITCHED TO SSH
+2021-01-13 18:06:09,867 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-13 18:06:09,931 - INFO - Authentication (password) successful!
+2021-01-13 18:08:09,742 - INFO - RPI Bot ready
+2021-01-13 18:08:16,074 - INFO - SWITCHED TO CMD
+2021-01-13 18:10:37,629 - INFO - RPI Bot ready
+2021-01-13 18:10:43,599 - INFO - SWITCHED TO CMD
+2021-01-17 23:44:41,286 - INFO - RPI Bot ready
+2021-01-17 23:44:43,640 - INFO - SWITCHED TO SSH
+2021-01-17 23:44:43,694 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-17 23:44:43,804 - INFO - Authentication (password) successful!
+2021-01-17 23:45:56,990 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-17 23:46:00,642 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-17 23:46:00,984 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-17 23:46:01,369 - INFO - RPI Bot ready
+2021-01-17 23:46:04,792 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-17 23:46:05,144 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-17 23:46:09,277 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-17 23:46:09,903 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-17 23:46:21,485 - INFO - RPI Bot ready
+2021-01-17 23:46:24,033 - INFO - SWITCHED TO SSH
+2021-01-17 23:46:24,085 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-17 23:46:24,166 - INFO - Authentication (password) successful!
+2021-01-17 23:49:27,788 - INFO - RPI Bot ready
+2021-01-17 23:49:29,718 - INFO - SWITCHED TO SSH
+2021-01-17 23:49:29,770 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-17 23:49:29,868 - INFO - Authentication (password) successful!
+2021-01-18 00:38:19,050 - INFO - RPI Bot ready
+2021-01-18 00:38:20,680 - INFO - SWITCHED TO SSH
+2021-01-18 00:38:20,745 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-18 00:38:20,818 - INFO - Authentication (password) successful!
+2021-01-18 00:39:46,008 - INFO - RPI Bot ready
+2021-01-18 00:39:48,098 - INFO - SWITCHED TO SSH
+2021-01-18 00:41:41,500 - INFO - RPI Bot ready
+2021-01-18 00:41:43,164 - INFO - SWITCHED TO SSH
+2021-01-18 00:42:13,226 - INFO - RPI Bot ready
+2021-01-18 00:42:14,866 - INFO - SWITCHED TO SSH
+2021-01-18 00:43:20,577 - INFO - RPI Bot ready
+2021-01-18 00:43:22,180 - INFO - SWITCHED TO SSH
+2021-01-18 00:44:23,087 - INFO - RPI Bot ready
+2021-01-18 00:44:24,628 - INFO - SWITCHED TO SSH
+2021-01-18 00:47:09,814 - INFO - RPI Bot ready
+2021-01-18 00:47:26,383 - INFO - SWITCHED TO CMD
+2021-01-18 01:06:52,175 - INFO - RPI Bot ready
+2021-01-18 01:06:58,299 - INFO - SWITCHED TO CMD
+2021-01-18 01:07:44,215 - INFO - RPI Bot ready
+2021-01-18 01:07:52,591 - INFO - SWITCHED TO CMD
+2021-01-18 01:16:06,128 - INFO - RPI Bot ready
+2021-01-18 01:16:10,769 - INFO - SWITCHED TO CMD
+2021-01-18 01:17:07,882 - INFO - RPI Bot ready
+2021-01-18 01:17:10,774 - INFO - SWITCHED TO CMD
+2021-01-18 01:17:11,174 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-18 01:17:28,379 - INFO - RPI Bot ready
+2021-01-18 01:17:31,598 - INFO - SWITCHED TO CMD
+2021-01-18 01:18:09,806 - INFO - RPI Bot ready
+2021-01-18 01:18:11,220 - INFO - SWITCHED TO CMD
+2021-01-18 01:18:46,611 - INFO - RPI Bot ready
+2021-01-18 01:18:48,665 - INFO - SWITCHED TO CMD
+2021-01-18 01:21:55,237 - INFO - RPI Bot ready
+2021-01-18 01:21:57,081 - INFO - SWITCHED TO CMD
+2021-01-18 09:28:11,438 - INFO - RPI Bot ready
+2021-01-18 09:28:14,347 - INFO - SWITCHED TO CMD
+2021-01-18 09:29:02,545 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-18 09:29:05,052 - INFO - SWITCHED TO CMD
+2021-01-18 09:29:06,189 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-18 09:29:06,553 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-18 09:29:10,023 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-18 09:29:10,663 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-18 09:29:24,123 - INFO - RPI Bot ready
+2021-01-18 09:29:26,179 - INFO - SWITCHED TO CMD
+2021-01-18 09:29:48,877 - INFO - SWITCHED TO CMD
+2021-01-18 11:02:31,574 - INFO - RPI Bot ready
+2021-01-18 11:02:35,166 - INFO - SWITCHED TO CMD
+2021-01-18 11:04:03,414 - INFO - SWITCHED TO CMD
+2021-01-18 11:04:04,878 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-18 11:04:05,667 - INFO - SWITCHED TO CMD
+2021-01-18 11:04:19,610 - INFO - SWITCHED TO CMD
+2021-01-18 11:04:44,214 - INFO - SWITCHED TO CMD
+2021-01-18 11:06:11,136 - INFO - SWITCHED TO CMD
+2021-01-18 11:06:42,231 - INFO - SWITCHED TO CMD
+2021-01-18 11:12:19,338 - INFO - SWITCHED TO CMD
+2021-01-18 11:13:02,138 - INFO - SWITCHED TO CMD
+2021-01-18 11:25:31,725 - INFO - SWITCHED TO CMD
+2021-01-18 11:27:11,083 - INFO - SWITCHED TO CMD
+2021-01-18 11:29:13,518 - INFO - SWITCHED TO CMD
+2021-01-18 11:33:09,189 - INFO - SWITCHED TO CMD
+2021-01-18 11:35:19,212 - INFO - SWITCHED TO CMD
+2021-01-18 11:35:50,732 - INFO - SWITCHED TO CMD
+2021-01-18 11:36:25,925 - INFO - SWITCHED TO CMD
+2021-01-18 11:36:40,778 - INFO - SWITCHED TO CMD
+2021-01-18 11:37:07,915 - INFO - SWITCHED TO SSH
+2021-01-18 11:42:42,169 - INFO - SWITCHED TO SSH
+2021-01-18 11:44:58,752 - INFO - SWITCHED TO SSH
+2021-01-18 11:46:13,847 - INFO - SWITCHED TO SSH
+2021-01-18 11:46:45,153 - INFO - SWITCHED TO SSH
+2021-01-18 11:54:44,681 - INFO - SWITCHED TO SSH
+2021-01-18 11:55:23,603 - INFO - SWITCHED TO SSH
+2021-01-18 11:55:59,383 - INFO - SWITCHED TO SSH
+2021-01-18 11:55:59,434 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-18 11:55:59,535 - INFO - Authentication (password) successful!
+2021-01-18 13:27:53,045 - INFO - SWITCHED TO TERMINAL
+2021-01-18 13:31:42,077 - INFO - SWITCHED TO TERMINAL
+2021-01-18 13:31:48,050 - INFO - SWITCHED TO SSH
+2021-01-18 13:31:55,139 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-18 13:32:18,587 - INFO - SWITCHED TO TERMINAL
+2021-01-18 13:32:28,629 - INFO - SWITCHED TO SSH
+2021-01-18 13:39:48,590 - INFO - SWITCHED TO TERMINAL
+2021-01-18 13:40:12,639 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-18 13:42:28,152 - INFO - SWITCHED TO START
+2021-01-18 13:42:28,198 - INFO - SWITCHED TO START
+2021-01-18 13:42:30,668 - INFO - SWITCHED TO START
+2021-01-18 13:44:12,791 - INFO - SWITCHED TO START
+2021-01-18 13:44:18,234 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-18 13:45:34,704 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-18 13:46:21,531 - INFO - SWITCHED TO START
+2021-01-18 15:06:47,335 - INFO - SWITCHED TO TERMINAL
+2021-01-18 15:07:26,589 - INFO - SWITCHED TO TERMINAL
+2021-01-18 15:10:47,085 - INFO - SWITCHED TO TERMINAL
+2021-01-18 15:11:50,421 - INFO - SWITCHED TO TERMINAL
+2021-01-18 15:12:29,588 - INFO - SWITCHED TO TERMINAL
+2021-01-18 15:13:10,185 - INFO - SWITCHED TO TERMINAL
+2021-01-18 15:16:32,281 - INFO - SWITCHED TO TERMINAL
+2021-01-18 15:17:08,813 - INFO - SWITCHED TO TERMINAL
+2021-01-18 15:17:33,220 - INFO - SWITCHED TO TERMINAL
+2021-01-18 15:17:53,050 - INFO - SWITCHED TO TERMINAL
+2021-01-18 15:18:40,241 - INFO - SWITCHED TO TERMINAL
+2021-01-18 15:26:13,032 - INFO - SWITCHED TO TERMINAL
+2021-01-18 15:27:07,987 - INFO - SWITCHED TO TERMINAL
+2021-01-18 15:27:35,590 - INFO - SWITCHED TO TERMINAL
+2021-01-18 15:28:06,009 - INFO - SWITCHED TO TERMINAL
+2021-01-18 15:28:13,589 - INFO - SWITCHED TO START
+2021-01-18 15:28:19,408 - INFO - SWITCHED TO TERMINAL
+2021-01-18 15:28:40,288 - INFO - SWITCHED TO START
+2021-01-18 15:31:43,466 - INFO - SWITCHED TO TERMINAL
+2021-01-18 15:32:00,156 - INFO - SWITCHED TO START
+2021-01-18 15:32:43,809 - INFO - SWITCHED TO SSH
+2021-01-18 15:38:01,715 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-18 15:40:00,808 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-18 15:40:20,788 - INFO - SWITCHED TO SSH
+2021-01-18 15:40:44,192 - INFO - SWITCHED TO SSH
+2021-01-18 15:41:34,258 - INFO - SWITCHED TO SSH
+2021-01-18 15:41:34,315 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-18 15:41:54,826 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-18 15:45:52,584 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-18 15:45:55,073 - INFO - RELAY 4 on
+2021-01-18 15:45:56,284 - INFO - RELAY 4 off
+2021-01-18 17:40:03,504 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-18 17:41:26,241 - INFO - SWITCHED TO TERMINAL
+2021-01-18 17:42:35,638 - INFO - SWITCHED TO SSH
+2021-01-18 17:46:14,649 - INFO - SWITCHED TO SSH
+2021-01-18 17:55:48,791 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-18 17:56:54,938 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-18 17:57:26,187 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-18 17:58:40,159 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-18 17:59:53,475 - INFO - SWITCHED TO TERMINAL
+2021-01-18 18:20:39,438 - INFO - SWITCHED TO TERMINAL
+2021-01-18 18:21:48,535 - INFO - SWITCHED TO TERMINAL
+2021-01-18 18:22:14,229 - INFO - SWITCHED TO TERMINAL
+2021-01-18 18:22:31,867 - INFO - SWITCHED TO TERMINAL
+2021-01-18 18:23:50,942 - INFO - SWITCHED TO SSH
+2021-01-18 18:25:34,291 - INFO - SWITCHED TO SSH
+2021-01-18 18:28:14,829 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-18 18:28:18,193 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-18 18:28:18,539 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-18 18:28:22,184 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-18 18:28:22,806 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-18 18:28:26,990 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-18 18:28:28,121 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-18 18:28:33,273 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-18 18:28:35,381 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-18 18:28:39,495 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-18 18:28:52,416 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-18 18:37:01,198 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-18 18:38:08,142 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-18 18:39:18,695 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-18 18:40:22,325 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-18 18:49:32,177 - INFO - SWITCHED TO SSH
+2021-01-18 18:53:39,709 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-18 18:53:50,070 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-18 18:53:53,451 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-18 18:54:03,777 - ERROR - A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2021-01-18 18:56:10,872 - INFO - SWITCHED TO TERMINAL
+2021-01-18 18:57:43,685 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-18 19:28:31,625 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-18 19:30:16,736 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-18 19:30:54,167 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-18 19:36:15,857 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-18 19:36:37,681 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-18 19:39:58,717 - INFO - RELAY 1 off
+2021-01-18 19:40:08,688 - INFO - RELAY 1 on
+2021-01-18 19:40:15,342 - INFO - RELAY 1 off
+2021-01-18 19:42:21,467 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-21 12:21:59,247 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-21 12:22:57,862 - INFO - SWITCHED TO TERMINAL
+2021-01-21 12:24:26,878 - INFO - SWITCHED TO TERMINAL
+2021-01-21 12:29:59,587 - INFO - SWITCHED TO TERMINAL
+2021-01-21 12:31:41,271 - INFO - SWITCHED TO TERMINAL
+2021-01-21 12:31:57,350 - INFO - SWITCHED TO TERMINAL
+2021-01-21 12:34:16,418 - INFO - SWITCHED TO TERMINAL
+2021-01-21 12:34:59,109 - INFO - SWITCHED TO TERMINAL
+2021-01-21 12:35:37,317 - INFO - SWITCHED TO TERMINAL
+2021-01-21 12:38:07,132 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-21 12:38:27,665 - INFO - RELAY 2 on
+2021-01-21 12:40:10,404 - INFO - RELAY 4 on
+2021-01-21 12:40:12,909 - INFO - RELAY 4 off
+2021-01-21 12:40:14,783 - INFO - RELAY 4 on
+2021-01-21 12:40:15,792 - INFO - RELAY 4 off
+2021-01-21 12:40:17,013 - INFO - RELAY 3 on
+2021-01-21 12:40:17,825 - INFO - RELAY 3 off
+2021-01-21 12:40:19,035 - INFO - RELAY 2 on
+2021-01-21 12:40:32,829 - INFO - RELAY 2 off
+2021-01-21 12:42:39,044 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-21 12:42:41,222 - INFO - RELAY 1 on
+2021-01-21 12:42:42,488 - INFO - RELAY 1 off
+2021-01-21 12:43:51,006 - INFO - SWITCHED TO TERMINAL
+2021-01-21 12:44:05,121 - INFO - RELAY 1 on
+2021-01-21 12:44:12,399 - INFO - RELAY 1 off
+2021-01-21 12:58:02,187 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-21 12:58:18,864 - INFO - SWITCHED TO TERMINAL
+2021-01-21 13:01:49,257 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-22 10:22:39,537 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-22 10:22:41,523 - INFO - RELAY 1 on
+2021-01-22 10:22:42,711 - INFO - RELAY 1 off
+2021-01-22 10:24:29,619 - INFO - RELAY 1 on
+2021-01-22 10:30:17,080 - INFO - RELAY 1 off
+2021-01-22 10:30:53,915 - INFO - RELAY 1 on
+2021-01-22 10:41:55,365 - INFO - RELAY 2 on
+2021-01-22 10:41:56,209 - INFO - RELAY 3 on
+2021-01-22 10:41:57,510 - INFO - RELAY 4 on
+2021-01-22 10:43:17,664 - INFO - RELAY 4 off
+2021-01-22 10:43:24,301 - INFO - RELAY 3 off
+2021-01-22 10:43:30,383 - INFO - RELAY 2 off
+2021-01-22 10:43:36,701 - INFO - RELAY 1 off
+2021-01-22 10:46:56,718 - INFO - RELAY 1 on
+2021-01-22 10:46:56,863 - INFO - RELAY 2 on
+2021-01-22 10:46:58,124 - INFO - RELAY 3 on
+2021-01-22 10:46:58,948 - INFO - RELAY 4 on
+2021-01-22 10:49:01,216 - INFO - RELAY 4 off
+2021-01-22 10:49:01,322 - INFO - RELAY 3 off
+2021-01-22 10:49:02,093 - INFO - RELAY 2 off
+2021-01-22 10:49:02,849 - INFO - RELAY 1 off
+2021-01-22 10:49:34,398 - INFO - RELAY 4 off
+2021-01-22 10:49:52,410 - INFO - RELAY 3 on
+2021-01-22 10:50:00,963 - INFO - RELAY 2 on
+2021-01-22 10:50:10,761 - INFO - RELAY 3 off
+2021-01-22 10:50:10,870 - INFO - RELAY 4 off
+2021-01-22 10:50:10,902 - INFO - RELAY 2 off
+2021-01-22 10:50:12,061 - INFO - RELAY 1 off
+2021-01-22 10:50:22,074 - INFO - RELAY 2 off
+2021-01-22 10:50:46,167 - INFO - RELAY 1 on
+2021-01-22 10:50:58,299 - INFO - RELAY 1 off
+2021-01-22 10:50:58,671 - INFO - RELAY 2 off
+2021-01-22 10:51:00,377 - INFO - RELAY 3 off
+2021-01-22 10:51:01,744 - INFO - RELAY 3 on
+2021-01-22 10:51:16,355 - INFO - RELAY 2 on
+2021-01-22 10:51:16,549 - INFO - RELAY 4 on
+2021-01-22 11:03:37,812 - INFO - RELAY 3 off
+2021-01-22 11:03:37,957 - INFO - RELAY 3 on
+2021-01-22 11:03:40,851 - INFO - RELAY 3 off
+2021-01-22 11:03:42,704 - INFO - RELAY 3 on
+2021-01-22 11:03:44,102 - INFO - RELAY 2 off
+2021-01-22 11:03:45,402 - INFO - RELAY 2 on
+2021-01-22 11:03:47,907 - INFO - RELAY 4 off
+2021-01-22 11:03:49,712 - INFO - RELAY 3 off
+2021-01-22 11:03:50,859 - INFO - RELAY 1 off
+2021-01-22 11:03:53,129 - INFO - RELAY 2 off
+2021-01-22 11:03:53,951 - INFO - RELAY 2 on
+2021-01-22 11:03:55,126 - INFO - RELAY 2 off
+2021-01-22 11:03:56,152 - INFO - RELAY 2 on
+2021-01-22 11:04:05,274 - INFO - RELAY 2 off
+2021-01-22 11:07:38,664 - INFO - RELAY 2 off
+2021-01-22 13:52:21,039 - INFO - SWITCHED TO TERMINAL
+2021-01-22 13:53:29,340 - INFO - SWITCHED TO TERMINAL
+2021-01-22 13:55:15,834 - INFO - SWITCHED TO TERMINAL
+2021-01-22 13:57:10,407 - INFO - SWITCHED TO TERMINAL
+2021-01-22 13:58:09,745 - INFO - SWITCHED TO TERMINAL
+2021-01-22 13:58:36,361 - INFO - SWITCHED TO TERMINAL
+2021-01-22 14:00:53,502 - INFO - SWITCHED TO TERMINAL
+2021-01-22 14:01:37,501 - INFO - SWITCHED TO TERMINAL
+2021-01-22 14:03:53,082 - INFO - SWITCHED TO TERMINAL
+2021-01-22 14:04:53,586 - INFO - SWITCHED TO TERMINAL
+2021-01-22 14:18:55,783 - INFO - SWITCHED TO TERMINAL
+2021-01-22 14:19:16,487 - INFO - SWITCHED TO TERMINAL
+2021-01-22 14:33:04,136 - INFO - SWITCHED TO TERMINAL
+2021-01-22 14:34:26,043 - INFO - SWITCHED TO TERMINAL
+2021-01-22 14:34:54,558 - INFO - SWITCHED TO TERMINAL
+2021-01-22 14:56:18,344 - INFO - SWITCHED TO TERMINAL
+2021-01-22 15:45:19,428 - INFO - SWITCHED TO TERMINAL
+2021-01-22 15:51:57,375 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-22 15:52:33,723 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-22 15:52:56,719 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-22 15:55:24,691 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-22 16:02:08,364 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 16:02:08,447 - INFO - Authentication (password) successful!
+2021-01-22 16:26:19,671 - INFO - SWITCHED TO START
+2021-01-22 16:26:35,346 - INFO - SWITCHED TO TERMINAL
+2021-01-22 16:26:40,935 - INFO - SWITCHED TO START
+2021-01-22 16:26:45,927 - INFO - SWITCHED TO SSH
+2021-01-22 16:26:50,069 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-22 16:26:56,428 - INFO - SWITCHED TO START
+2021-01-22 16:35:33,910 - INFO - SWITCHED TO START
+2021-01-22 16:35:34,496 - INFO - SWITCHED TO TERMINAL
+2021-01-22 16:38:22,715 - INFO - SWITCHED TO SSH
+2021-01-22 16:46:21,798 - INFO - SWITCHED TO SSH
+2021-01-22 16:46:42,372 - INFO - SWITCHED TO START
+2021-01-22 16:55:58,240 - INFO - SWITCHED TO SSH
+2021-01-22 16:56:21,725 - INFO - SWITCHED TO START
+2021-01-22 16:58:58,623 - INFO - SWITCHED TO SSH
+2021-01-22 17:00:43,006 - INFO - SWITCHED TO SSH
+2021-01-22 17:05:06,936 - INFO - SWITCHED TO TERMINAL
+2021-01-22 17:07:52,642 - INFO - SWITCHED TO TERMINAL
+2021-01-22 17:09:43,407 - INFO - SWITCHED TO TERMINAL
+2021-01-22 17:10:15,699 - INFO - SWITCHED TO TERMINAL
+2021-01-22 17:11:46,905 - INFO - SWITCHED TO TERMINAL
+2021-01-22 17:12:05,407 - INFO - SWITCHED TO TERMINAL
+2021-01-22 17:13:50,619 - INFO - SWITCHED TO TERMINAL
+2021-01-22 17:15:39,705 - INFO - SWITCHED TO TERMINAL
+2021-01-22 17:16:38,002 - INFO - SWITCHED TO TERMINAL
+2021-01-22 17:17:44,586 - INFO - SWITCHED TO TERMINAL
+2021-01-22 17:21:53,291 - INFO - SWITCHED TO TERMINAL
+2021-01-22 17:23:22,556 - INFO - SWITCHED TO TERMINAL
+2021-01-22 17:23:59,435 - INFO - SWITCHED TO TERMINAL
+2021-01-22 17:24:49,434 - INFO - SWITCHED TO TERMINAL
+2021-01-22 19:39:12,766 - INFO - SWITCHED TO TERMINAL
+2021-01-22 19:39:30,648 - INFO - SWITCHED TO START
+2021-01-22 19:39:54,708 - INFO - SWITCHED TO SSH
+2021-01-22 19:40:01,142 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 19:40:01,235 - INFO - Authentication (password) successful!
+2021-01-22 19:40:09,778 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 19:40:09,862 - INFO - Authentication (password) successful!
+2021-01-22 19:40:18,254 - INFO - SWITCHED TO START
+2021-01-22 19:41:47,717 - INFO - SWITCHED TO START
+2021-01-22 19:41:51,825 - INFO - EXIT MODE
+2021-01-22 19:41:55,223 - INFO - SWITCHED TO SSH
+2021-01-22 19:41:58,495 - INFO - EXIT MODE
+2021-01-22 19:42:04,186 - INFO - SWITCHED TO TERMINAL
+2021-01-22 19:42:07,386 - INFO - EXIT MODE
+2021-01-22 19:42:11,920 - INFO - SWITCHED TO TERMINAL
+2021-01-22 19:42:16,324 - INFO - SWITCHED TO TERMINAL
+2021-01-22 19:42:19,993 - INFO - SWITCHED TO SSH
+2021-01-22 19:42:23,295 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 19:42:23,421 - INFO - Authentication (password) successful!
+2021-01-22 19:42:34,586 - INFO - EXIT MODE
+2021-01-22 19:42:36,212 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-22 19:42:49,247 - INFO - RELAY 2 on
+2021-01-22 19:42:59,239 - INFO - RELAY 2 off
+2021-01-22 19:43:46,219 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-22 19:43:48,135 - INFO - RELAY 1 on
+2021-01-22 19:43:49,229 - INFO - RELAY 1 off
+2021-01-22 19:43:50,241 - INFO - RELAY 2 on
+2021-01-22 19:43:50,924 - INFO - RELAY 2 off
+2021-01-22 19:43:52,070 - INFO - RELAY 3 on
+2021-01-22 19:43:52,731 - INFO - RELAY 3 off
+2021-01-22 19:43:53,782 - INFO - RELAY 4 on
+2021-01-22 19:43:54,946 - INFO - RELAY 4 off
+2021-01-22 19:43:56,256 - INFO - RELAY 2 on
+2021-01-22 19:43:58,459 - INFO - RELAY 2 off
+2021-01-22 19:59:44,651 - INFO - SWITCHED TO SSH
+2021-01-22 19:59:51,261 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 19:59:51,323 - INFO - Authentication (password) successful!
+2021-01-22 20:00:41,387 - INFO - SWITCHED TO SSH
+2021-01-22 20:00:45,878 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 20:00:45,939 - INFO - Authentication (password) successful!
+2021-01-22 20:01:21,287 - INFO - SWITCHED TO SSH
+2021-01-22 20:01:25,436 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 20:01:25,499 - INFO - Authentication (password) successful!
+2021-01-22 20:06:11,872 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 20:06:11,954 - INFO - Authentication (password) successful!
+2021-01-22 20:06:32,785 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 20:06:32,843 - INFO - Authentication (password) successful!
+2021-01-22 20:15:39,926 - INFO - SWITCHED TO SSH
+2021-01-22 20:16:42,665 - INFO - SWITCHED TO SSH
+2021-01-22 20:19:54,608 - INFO - SWITCHED TO SSH
+2021-01-22 20:19:58,310 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 20:19:58,438 - INFO - Authentication (password) successful!
+2021-01-22 20:21:22,692 - INFO - SWITCHED TO SSH
+2021-01-22 20:21:24,979 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 20:21:25,101 - INFO - Authentication (password) successful!
+2021-01-22 20:32:42,966 - INFO - SWITCHED TO SSH
+2021-01-22 20:32:48,250 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 20:32:48,315 - INFO - Authentication (password) successful!
+2021-01-22 20:36:30,226 - INFO - SWITCHED TO SSH
+2021-01-22 20:36:35,549 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 20:36:35,606 - INFO - Authentication (password) successful!
+2021-01-22 20:58:45,472 - INFO - SWITCHED TO SSH
+2021-01-22 20:58:50,169 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 20:58:50,253 - INFO - Authentication (password) successful!
+2021-01-22 20:59:26,018 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 20:59:26,074 - INFO - Authentication (password) successful!
+2021-01-22 21:01:25,715 - INFO - SWITCHED TO SSH
+2021-01-22 21:01:28,586 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 21:01:28,640 - INFO - Authentication (password) successful!
+2021-01-22 21:02:09,590 - INFO - SWITCHED TO SSH
+2021-01-22 21:02:12,125 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 21:02:12,217 - INFO - Authentication (password) successful!
+2021-01-22 21:03:44,986 - INFO - SWITCHED TO SSH
+2021-01-22 21:03:47,957 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 21:03:48,013 - INFO - Authentication (password) successful!
+2021-01-22 21:04:59,183 - INFO - SWITCHED TO SSH
+2021-01-22 21:05:01,695 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 21:05:01,767 - INFO - Authentication (password) successful!
+2021-01-22 21:05:49,073 - INFO - SWITCHED TO SSH
+2021-01-22 21:05:51,863 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 21:05:51,920 - INFO - Authentication (password) successful!
+2021-01-22 21:06:04,255 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 21:06:04,309 - INFO - Authentication (password) successful!
+2021-01-22 21:06:12,545 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 21:06:12,598 - INFO - Authentication (password) successful!
+2021-01-22 21:08:58,376 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-22 21:09:00,019 - INFO - RELAY 1 on
+2021-01-22 21:09:01,115 - INFO - RELAY 1 off
+2021-01-22 21:09:02,262 - INFO - RELAY 2 on
+2021-01-22 21:09:05,483 - INFO - RELAY 2 off
+2021-01-22 21:09:27,021 - INFO - SWITCHED TO START
+2021-01-22 21:09:31,332 - INFO - SWITCHED TO TERMINAL
+2021-01-22 21:11:04,647 - INFO - SWITCHED TO TERMINAL
+2021-01-22 21:11:06,075 - INFO - EXIT MODE
+2021-01-22 21:11:13,720 - INFO - SWITCHED TO TERMINAL
+2021-01-22 21:15:26,525 - INFO - SWITCHED TO TERMINAL
+2021-01-22 21:15:51,605 - INFO - EXIT MODE
+2021-01-22 21:15:55,147 - INFO - SWITCHED TO TERMINAL
+2021-01-22 21:28:08,103 - INFO - EXIT MODE
+2021-01-22 21:28:15,126 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-22 21:28:21,278 - INFO - RELAY 1 on
+2021-01-22 21:28:24,121 - INFO - RELAY 1 off
+2021-01-22 21:28:25,985 - INFO - RELAY 2 on
+2021-01-22 21:28:27,453 - INFO - RELAY 2 off
+2021-01-22 21:30:01,781 - INFO - RELAY 1 on
+2021-01-22 21:30:03,801 - INFO - RELAY 1 off
+2021-01-22 21:30:16,600 - INFO - RELAY 1 on
+2021-01-22 21:30:19,382 - INFO - RELAY 1 off
+2021-01-22 21:30:27,415 - INFO - RELAY 2 on
+2021-01-22 21:30:29,263 - INFO - RELAY 2 off
+2021-01-22 21:30:59,764 - INFO - RELAY 2 on
+2021-01-22 21:31:01,016 - INFO - RELAY 2 off
+2021-01-22 21:31:06,157 - INFO - RELAY 2 on
+2021-01-22 21:31:07,275 - INFO - RELAY 2 off
+2021-01-22 21:31:09,029 - INFO - RELAY 2 on
+2021-01-22 21:31:10,329 - INFO - RELAY 2 off
+2021-01-22 21:51:07,780 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-22 21:51:17,740 - INFO - RELAY 2 on
+2021-01-22 21:51:26,114 - INFO - RELAY 2 off
+2021-01-22 21:51:33,608 - INFO - RELAY 1 on
+2021-01-22 21:51:35,197 - INFO - RELAY 1 off
+2021-01-22 21:51:36,658 - INFO - RELAY 3 on
+2021-01-22 21:51:38,417 - INFO - RELAY 3 off
+2021-01-22 21:51:39,624 - INFO - RELAY 4 on
+2021-01-22 21:51:41,276 - INFO - RELAY 4 off
+2021-01-22 21:51:44,349 - INFO - RELAY 4 off
+2021-01-22 21:51:45,709 - INFO - RELAY 1 on
+2021-01-22 21:51:46,852 - INFO - RELAY 2 on
+2021-01-22 21:51:48,627 - INFO - RELAY 3 on
+2021-01-22 21:51:49,421 - INFO - RELAY 4 on
+2021-01-22 21:51:50,818 - INFO - RELAY 4 off
+2021-01-22 21:51:51,376 - INFO - RELAY 3 off
+2021-01-22 22:08:00,532 - INFO - SWITCHED TO TERMINAL.
+2021-01-22 22:08:38,364 - INFO - SWITCHED TO TERMINAL
+2021-01-22 22:24:27,460 - INFO - EXIT MODE
+2021-01-22 22:24:31,869 - INFO - SWITCHED TO SSH
+2021-01-22 22:24:39,402 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 22:24:39,524 - INFO - Authentication (password) successful!
+2021-01-22 23:00:23,268 - INFO - SWITCHED TO SSH
+2021-01-22 23:00:37,700 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 23:00:37,786 - INFO - Authentication (password) successful!
+2021-01-22 23:01:29,777 - INFO - SWITCHED TO SSH
+2021-01-22 23:01:32,365 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 23:01:32,418 - INFO - Authentication (password) successful!
+2021-01-22 23:02:10,022 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 23:02:10,116 - INFO - Authentication (password) successful!
+2021-01-22 23:03:27,172 - INFO - SWITCHED TO SSH
+2021-01-22 23:03:38,858 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 23:03:38,941 - INFO - Authentication (password) successful!
+2021-01-22 23:12:03,153 - INFO - SWITCHED TO SSH
+2021-01-22 23:12:10,228 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 23:12:10,285 - INFO - Authentication (password) successful!
+2021-01-22 23:12:23,682 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 23:12:23,739 - INFO - Authentication (password) successful!
+2021-01-22 23:21:54,444 - INFO - SWITCHED TO SSH
+2021-01-22 23:21:56,351 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 23:21:56,409 - INFO - Authentication (password) successful!
+2021-01-22 23:24:18,935 - INFO - SWITCHED TO SSH
+2021-01-22 23:24:21,339 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 23:24:21,462 - INFO - Authentication (password) successful!
+2021-01-22 23:36:14,452 - INFO - SWITCHED TO TERMINAL
+2021-01-22 23:36:23,979 - INFO - SWITCHED TO SSH
+2021-01-22 23:36:27,167 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 23:36:27,289 - INFO - Authentication (password) successful!
+2021-01-22 23:42:36,754 - INFO - SWITCHED TO SSH
+2021-01-22 23:42:38,683 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 23:42:38,740 - INFO - Authentication (password) successful!
+2021-01-22 23:43:41,561 - INFO - SWITCHED TO SSH
+2021-01-22 23:43:43,542 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 23:43:43,623 - INFO - Authentication (password) successful!
+2021-01-22 23:46:39,331 - INFO - SWITCHED TO SSH
+2021-01-22 23:46:42,269 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 23:46:42,325 - INFO - Authentication (password) successful!
+2021-01-22 23:51:16,967 - INFO - SWITCHED TO SSH
+2021-01-22 23:51:19,474 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 23:51:19,528 - INFO - Authentication (password) successful!
+2021-01-22 23:52:34,414 - INFO - SWITCHED TO SSH
+2021-01-22 23:52:36,302 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 23:52:36,357 - INFO - Authentication (password) successful!
+2021-01-22 23:55:44,553 - INFO - SWITCHED TO SSH
+2021-01-22 23:55:48,864 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 23:55:48,948 - INFO - Authentication (password) successful!
+2021-01-22 23:56:47,137 - INFO - SWITCHED TO SSH
+2021-01-22 23:56:49,518 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-22 23:56:49,574 - INFO - Authentication (password) successful!
+2021-01-23 00:09:48,462 - INFO - SWITCHED TO SSH
+2021-01-23 00:09:50,770 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-23 00:09:50,825 - INFO - Authentication (password) successful!
+2021-01-23 00:10:10,089 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-23 00:10:10,146 - INFO - Authentication (password) successful!
+2021-01-23 00:11:56,713 - INFO - SWITCHED TO SSH
+2021-01-23 00:11:58,698 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-23 00:11:58,752 - INFO - Authentication (password) successful!
+2021-01-23 00:13:26,339 - INFO - SWITCHED TO SSH
+2021-01-23 00:13:28,666 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-23 00:13:28,721 - INFO - Authentication (password) successful!
+2021-01-23 00:15:11,864 - INFO - SWITCHED TO SSH
+2021-01-23 00:15:14,395 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-23 00:15:14,450 - INFO - Authentication (password) successful!
+2021-01-23 00:15:46,452 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-23 00:15:46,552 - INFO - Authentication (password) successful!
+2021-01-23 00:24:04,906 - INFO - SWITCHED TO SSH
+2021-01-23 00:24:06,816 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-23 00:24:06,869 - INFO - Authentication (password) successful!
+2021-01-23 00:24:55,393 - INFO - SWITCHED TO SSH
+2021-01-23 00:24:57,351 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-23 00:24:57,432 - INFO - Authentication (password) successful!
+2021-01-23 00:25:43,959 - INFO - SWITCHED TO SSH
+2021-01-23 00:25:46,193 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-23 00:25:46,248 - INFO - Authentication (password) successful!
+2021-01-23 00:29:06,978 - INFO - SWITCHED TO SSH
+2021-01-23 00:29:10,126 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-23 00:29:10,180 - INFO - Authentication (password) successful!
+2021-01-23 00:29:52,386 - INFO - SWITCHED TO SSH
+2021-01-23 00:29:54,647 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-23 00:29:54,741 - INFO - Authentication (password) successful!
+2021-01-23 00:30:43,554 - INFO - SWITCHED TO SSH
+2021-01-23 00:30:45,742 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-23 00:30:45,798 - INFO - Authentication (password) successful!
+2021-01-23 00:32:14,417 - INFO - SWITCHED TO SSH
+2021-01-23 00:32:16,900 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-23 00:32:16,958 - INFO - Authentication (password) successful!
+2021-01-23 08:26:42,815 - INFO - SWITCHED TO TERMINAL
+2021-01-23 08:27:55,984 - INFO - EXIT MODE
+2021-01-23 08:28:01,507 - INFO - SWITCHED TO SSH
+2021-01-23 08:28:05,408 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-23 08:28:05,536 - INFO - Authentication (password) successful!
+2021-01-23 08:29:14,417 - INFO - SWITCHED TO TERMINAL
+2021-01-23 08:29:14,448 - INFO - SWITCHED TO START
+2021-01-23 08:29:14,589 - INFO - SWITCHED TO START
+2021-01-23 08:29:14,671 - INFO - SWITCHED TO SSH
+2021-01-23 08:29:18,821 - INFO - SWITCHED TO START
+2021-01-23 08:29:23,941 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-23 08:29:25,177 - INFO - RELAY 1 on
+2021-01-23 08:29:26,104 - INFO - RELAY 1 off
+2021-01-23 08:29:31,842 - INFO - SWITCHED TO START
+2021-01-23 08:29:33,729 - INFO - SWITCHED TO SSH
+2021-01-23 08:29:36,196 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-23 08:29:36,281 - INFO - Authentication (password) successful!
+2021-01-23 08:30:30,541 - INFO - SWITCHED TO START
+2021-01-23 08:30:31,958 - INFO - SWITCHED TO SSH
+2021-01-23 08:30:35,659 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-23 08:30:35,744 - INFO - Authentication (password) successful!
+2021-01-23 08:31:35,011 - INFO - SWITCHED TO START
+2021-01-23 08:31:36,655 - INFO - SWITCHED TO SSH
+2021-01-23 08:31:39,482 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-23 08:31:39,579 - INFO - Authentication (password) successful!
+2021-01-23 10:56:45,544 - INFO - SWITCHED TO TERMINAL
+2021-01-23 10:58:40,818 - INFO - EXIT MODE
+2021-01-23 10:59:01,244 - INFO - SWITCHED TO SSH
+2021-01-23 10:59:26,675 - INFO - Connected (version 2.0, client OpenSSH_8.3p1)
+2021-01-23 10:59:26,730 - INFO - Authentication (password) successful!
+2021-01-23 11:02:04,192 - INFO - SWITCHED TO START
+2021-01-23 11:02:04,221 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-23 11:02:18,032 - INFO - SWITCHED TO START
+2021-01-23 11:02:32,697 - INFO - SWITCHED TO RELAY CONTROL
+2021-01-23 11:02:52,770 - INFO - RELAY 2 on
+2021-01-23 11:03:03,335 - INFO - RELAY 2 off
