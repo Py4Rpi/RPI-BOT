@@ -44,9 +44,9 @@ If all goes well it will send the initial message that "RPI BOT ONLINE" as well 
 
 The Rpi-bot will give you some options to navigate in menu. There are 3 features so far: 
 
-* relay control, 
+* relay control 
 * terminal access(Paramiko)
-* some commands execution(Subprocess).
+* some commands execution(Subprocess)
 
 ## Help
 
