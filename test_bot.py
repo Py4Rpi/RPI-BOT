@@ -1,10 +1,10 @@
 from config import *
 
 def test_id():
-    assert user_id == 737422517
+    assert user_id == ???
 def test_tok():
-    assert token == "1334027775:AAHnuoDQWUBlmhAKYy7_Ch9goCq-YfCGp40"
+    assert token == "???"
 def test_log():
-    assert login == 'vito'
+    assert login == '???'
 def test_pswd():
-    assert pswd == 'Har23ley!'
+    assert pswd == '???'
