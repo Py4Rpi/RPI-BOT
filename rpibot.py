@@ -39,7 +39,7 @@ relay_keyboard.row('RELAY 1 on', 'RELAY 1 off', 'RELAY 2 on', 'RELAY 2 off')
 relay_keyboard.row('RELAY 3 on', 'RELAY 3 off', 'RELAY 4 on', 'RELAY 4 off')
 
 
-# INITIAL MSG
+# INITIAL MSG AFTER START
 def init_msg():
     bot.send_message(user_id, 'RPI BOT ONLINE \n' + "local ip is: " +
                      local_ip + '\n' + "default conn. ip is: " + default_conn + '\n' + "SELECT MODE:",
@@ -64,7 +64,7 @@ init_msg()
 # GLOBAL VARIABLE
 switch = 0
 
-
+#MODE SELECTION
 @bot.message_handler(commands=['start', 'terminal', 'ssh', 'relay', 'exit'])
 def init_cmd(cmd):
     global switch
@@ -104,17 +104,20 @@ def init_cmd(cmd):
         switch = "/start"
         print(switch)
 
-
+#MAIN OPERATIONS
 @bot.message_handler(content_types=["text"])
 def funcs(message):
-    if switch == "/terminal":
-        comand = message.text  # текст сообщения
-        try:  # если команда невыполняемая - check_output выдаст exception
+    # ACCESS TERMINAL WITH "SUBPROCESS" LIB
+    if switch == "/terminal":   
+        comand = message.text  # MSG TEXT
+        try:  # if wrong cmd - check_output gives exception
             bot.send_message(message.chat.id, check_output(comand, shell=True))
 
         except:
             bot.send_message(message.chat.id, "Invalid input")
-    elif switch == "/ssh":
+            
+     # ACCESS TERMINAL WITH "PARAMIKO" LIB
+    elif switch == "/ssh":  
         bot.send_message(message.chat.id, "local ip is: " + local_ip + '\n' +
                          "default conn. ip is: "  + default_conn + '\n' + "SELECT MODE:", reply_markup=ssh_keyboard)
         if message.text == 'LOCAL HOST IP':
@@ -157,7 +160,7 @@ def funcs(message):
             print("Cannot establish connection")
             time.sleep(1)
             return None
-
+    # RELAY CONTROL MODE
     elif switch == "/relay":
 
         if message.text == 'RELAY 1 on':
