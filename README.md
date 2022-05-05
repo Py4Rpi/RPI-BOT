@@ -2,7 +2,7 @@
 
 Telegram bot control of Raspberry Pi
 
-https://github.com/Py4Rpi/RPI-BOT/blob/master/screen.jpg
+![alt text](https://github.com/Py4Rpi/RPI-BOT/blob/master/screen.jpg)
 
 ## Description
 
