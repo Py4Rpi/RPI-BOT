@@ -18,11 +18,11 @@ I use Ubuntu 20.10 on my Rpi and Python 3.7.
 
 Use requirements.txt to install:
 
-pytelegrambotapi>=3.7.6
-paramiko>=2.7.1
-gpiozero>=1.5.1
-lib8relay>=1.0.3
-smbus>=1.1.post2
+* pytelegrambotapi>=3.7.6
+* paramiko>=2.7.1
+* gpiozero>=1.5.1
+* lib8relay>=1.0.3
+* smbus>=1.1.post2
 
 ### Installing
 
