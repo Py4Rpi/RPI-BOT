@@ -6,7 +6,6 @@ Telegram bot control of Raspberry Pi
 
 ## Description
 
-Hello!
 
 This is my pet project/diploma work at Python Developer course. It is a simple Telegram bot which aims to control a Raspberry Pi 4 with LTE modem.
 In this case Telegram server works as a middle point between two devices with mobile internet (LTE) and connects them even thou they have a dynamic IP.
